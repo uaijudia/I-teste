@@ -1,5 +1,5 @@
 function accepted () {
-  alert("gratiluz :)");
+  alert("gratiluz:)");
   // redireciona para um URL após clicar no SIM
   location.href = "https://music.youtube.com/watch?v=izGwDsrQ1eQ";
 }
